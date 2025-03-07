@@ -1,0 +1,25 @@
+{
+  "name": "rajendra-react",
+  "version": "1.0.0",
+  "description": "This is React by Rajendra",
+  "main": "App.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nrbcodes/Rajendra-React.git"
+  },
+  "keywords": [
+    "react"
+  ],
+  "author": "Rajendra",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nrbcodes/Rajendra-React/issues"
+  },
+  "homepage": "https://github.com/nrbcodes/Rajendra-React#readme",
+  "devDependencies": {
+    "parcel": "^2.13.3"
+  }
+}
